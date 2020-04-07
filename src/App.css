@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.pwa-info {
+  position: absolute;
+  top: 0;
+  background-color: #333333;
+  width: 100%;
+  height: 30px;
+  color: white;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
