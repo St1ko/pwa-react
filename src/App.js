@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="pwa-info">
-          You can download this web app as PWA on your mobile device.
+          You can install this web app as PWA on your mobile device.
         </div>
         <img src={logo} className="App-logo" alt="logo" />
         <p>My amazing Progressive Web App</p>
